@@ -1,0 +1,7 @@
+document.getElementById('start-button').addEventListener('click', startGame)
+document.getElementById('black').addEventListener('click', submitAnswer)
+document.getElementById('blue').addEventListener('click', submitAnswer)
+document.getElementById('green').addEventListener('click', submitAnswer)
+document.getElementById('purple').addEventListener('click', submitAnswer)
+document.getElementById('red').addEventListener('click', submitAnswer)
+document.getElementById('yellow').addEventListener('click', submitAnswer)
