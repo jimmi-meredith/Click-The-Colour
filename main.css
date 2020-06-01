@@ -64,6 +64,38 @@ h1 {
   /* opacity: 0.9; */
 }
 
+.timer {
+  font-size: 25px;
+}
+
+.container-buttons {
+  margin-top: 50px;
+}
+
+.colour-button {
+  height: 75px;
+  font-size: 30px;
+  width: 20%;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 1px;
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+}
+
+.start-button {
+  height: 75px;
+  font-size: 30px;
+  width: 30%;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 1px;
+  text-align: center;
+  position: relative;
+}
+
+
 .black {
   color: black;
 }
