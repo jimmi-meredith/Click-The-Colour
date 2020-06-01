@@ -60,7 +60,7 @@ function submitAnswer (event) {
 
 function incorrectAnswer () {
   gameWord.className = ''
-  document.getElementById('game-word').innerHTML = 'OOPS!'
+  document.getElementById('game-word').innerHTML = 'oops!'
   endGame()
 }
 
